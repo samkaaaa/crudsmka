@@ -1,0 +1,2 @@
+# crudsmka
+example crud sql
